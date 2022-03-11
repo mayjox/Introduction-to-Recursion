@@ -13,6 +13,8 @@ Recursive functions
 
 <b>What I learned:</b>
 
-Recursive functions invoke the same function with a diffenet input until the base/final case is reached
+Recursive functions invoke the same function with a diffenet input until the base/final case is reached.
 
-recursion pitfalls happen when there is no base case, forget to return or return the wrong thing or stack overflow
+recursion pitfalls happen when there is no base case, forget to return or return the wrong thing or stack overflow.
+
+Recursive functions can be used in some cases where loops are used and can replace loops thereby improving the time complexities of a code.
